@@ -28,7 +28,11 @@ Let $\mathcal{r}$ and $\mathcal{R}$ denote the major and minor radii, respective
 
 ## Dependencies
 
-To install dependencies, employ the command `pip install <dependency>`.
+To install dependencies, employ this command:
+
+```py
+pip install <dependency_name>
+```
 
 ## License
 
