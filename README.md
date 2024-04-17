@@ -23,11 +23,15 @@ Let $\mathcal{r}$ and $\mathcal{R}$ denote respectively the major and minor radi
 
 <img src="https://github.com/robertovicario/Torus/assets/119845903/f9cd8bdd-409f-4c5b-8d15-d2545e5c68e0" width="512">
 
-## Dependencies
+## Instructions
 
-To install dependencies, employ this command:
+No configurations are required, just run the code.
 
-```py
+### Dependencies
+
+To install the necessary dependencies, use the following command:
+
+```python
 pip install <dependency_name>
 ```
 
