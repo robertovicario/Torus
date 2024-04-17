@@ -19,9 +19,6 @@ Let $\mathcal{r}$ and $\mathcal{R}$ denote the major and minor radii, respective
 | Spindle Torus | $0 < \mathcal{R} < \mathcal{r}$ |
 | Sphere | $\mathcal{R} = 0 < \mathcal{r}$ |
 
-
-### Horn Torus
-
 ## Preview
 
 <img src="https://github.com/robertovicario/Torus/assets/119845903/f9cd8bdd-409f-4c5b-8d15-d2545e5c68e0" width="512">
