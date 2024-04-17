@@ -10,7 +10,7 @@ In Italian, there's a saying: "non tutte le ciambelle riescono col buco" which t
 
 ### Parameters
 
-Let $\mathcal{r}$ and $\mathcal{R}$ denote the major and minor radii, respectively, of various toroidal and spherical objects:
+Let $\mathcal{r}$ and $\mathcal{R}$ denote respectively the major and minor radii of various toroidal and spherical objects:
 
 | Object | Inequality |
 | ---------- | ----------- |
